@@ -20,3 +20,6 @@ I created two models one using TensorFlow and the other using Sklearn and it got
 
 ## Conclusion
 Understanding the pattern of poems for each poet is challenging, more poems to each poet will increase the prediction highly and will improve the model, After all the model was given in high results and gives higher results in when the poet have a lot amount of poems.
+
+### Notes
+Dataset will be uploaded here soon
